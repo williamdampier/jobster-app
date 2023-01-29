@@ -1815,7 +1815,7 @@ const handleJobInput = (e) => {
       return {
         ...initialState
       };
-      return initialState
+
     },
 
 export const { handleChange, clearValues } = jobSlice.actions;

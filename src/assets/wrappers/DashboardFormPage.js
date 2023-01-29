@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 const Wrapper = styled.section`
   border-radius: var(--borderRadius);
@@ -26,7 +26,7 @@ const Wrapper = styled.section`
   }
   .form-center button {
     align-self: end;
-    height: 35px;
+    height: 50px;
     margin-top: 1rem;
   }
   .btn-container {
@@ -63,6 +63,6 @@ const Wrapper = styled.section`
       margin-top: 0;
     }
   }
-`
+`;
 
-export default Wrapper
+export default Wrapper;

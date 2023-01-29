@@ -211,7 +211,7 @@ ul {
   background: var(--white);
   border-radius: var(--borderRadius);
   box-shadow: var(--shadow-2);
-  padding: 2rem 2.5rem;
+  padding: 1rem 1.5rem;
   margin: 3rem auto;
   transition: var(--transition);
 }
@@ -241,6 +241,7 @@ ul {
 }
 .form-row {
   margin-bottom: 1rem;
+  margin: 0.5rem;
 }
 
 .form-textarea {
